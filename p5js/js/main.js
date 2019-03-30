@@ -6,6 +6,10 @@ let points = [];
 let w = 1080;
 let h = 1080;
 
+let cps;
+
+let particles = [];
+
 let n_squares = 92;
 let square_size;
 // https://stackoverflow.com/a/46792350/888094
@@ -75,20 +79,41 @@ function shuffleArray(array) {
 }
 
 function setup() {
-  canvas = createCanvas(w, h, WEBGL);
+  // canvas = createCanvas(w, h, WEBGL);
+  canvas = createCanvas(w, h);
   canvas.class("canv");
+
+  cps = coord(-47.073845, -22.9329252);
+
+  prepare_particles();
+  background(0);
 }
 
 function draw() {
-  background(0);
-
-  rotateX(TWO_PI / 7);
-  // rotateX(frameCount / 200);
-  translate(-width / 2, -height / 2);
-  draw_squares();
-
-  noLoop();
+  // stroke(255, 255, 255, 255 / 3);
+  // stroke(255);
+  particles.forEach(e => {
+    e.update(cps);
+    e.draw();
+  });
+  // if (frameCount == 100) {
+  //   noLoop();
+  // }
 }
+
+function prepare_particles() {
+  data.data.forEach(e => {
+    let c = coord(e.long, e.lat);
+    let q = e.qtd / 50 + 1;
+    // let q = Math.log(e.qtd) * 3;
+    // let q = e.qtd;
+    for (let i = 0; i < q; i++) {
+      particles.push(new Particle(c.x, c.y));
+    }
+  });
+}
+
+function draw_particles() {}
 
 function prepare_points() {
   data.data.forEach(e => {
@@ -138,6 +163,9 @@ function draw_squares() {
   if (max_square < 0) {
     prepare_squares();
   }
+  rotateX(TWO_PI / 7);
+  translate(-width / 2, -height / 2);
+
   // noStroke();
   let max_height = 18 * square_size;
   for (let ix = 0; ix < n_squares; ix++) {
