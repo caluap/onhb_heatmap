@@ -1,6 +1,6 @@
 var canvas;
 let debug = true;
-let margin = 0.0;
+let margin = 0.1;
 let points = [];
 
 let min_x, max_x, min_y, max_y;
@@ -61,29 +61,26 @@ function setup() {
   min_y = height * (1 - margin);
   max_y = height * margin;
 
-  let radius_adj = 0.01;
-
   data.data.forEach(e => {
-    let r = e.qtd * radius_adj;
-    for (let i = 0; i < e.qtd; i++) {
-      let rand_r = random() * r;
-      let rand_a = random() * TWO_PI;
-      let _x = sin(rand_a) * rand_r;
-      let _y = cos(rand_a) * rand_r;
-      let cx = map(e.long, min_long, max_long, min_x, max_x);
-      let cy = map(e.lat, min_lat, max_lat, min_y, max_y);
-      points.push(createVector(cx + _x, cy + _y));
-    }
+    let r = e.qtd;
+    let cx = map(e.long, min_long, max_long, min_x, max_x);
+    let cy = map(e.lat, min_lat, max_lat, min_y, max_y);
+    points.push({
+      r: r,
+      p: createVector(cx, cy)
+    });
   });
   shuffleArray(points);
 }
 
 function draw() {
   background(0);
-  noFill();
-  stroke(255, 255, 255, 128);
+  noStroke();
   points.forEach(e => {
-    point(e.x, e.y);
+    let g = (e.r / 1203) * 128 + 128;
+    fill(g);
+    let r = 2 + e.r * 0.05;
+    circle(e.p.x, e.p.y, r);
   });
   noLoop();
 }
