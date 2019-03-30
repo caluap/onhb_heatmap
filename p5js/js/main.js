@@ -6,7 +6,7 @@ let points = [];
 let w = 1080;
 let h = 1080;
 
-let n_squares = 34;
+let n_squares = 92;
 let square_size;
 // https://stackoverflow.com/a/46792350/888094
 let squares = Array.from(Array(n_squares), _ => Array(n_squares).fill(0));
@@ -75,13 +75,16 @@ function shuffleArray(array) {
 }
 
 function setup() {
-  canvas = createCanvas(w, h);
+  canvas = createCanvas(w, h, WEBGL);
   canvas.class("canv");
 }
 
 function draw() {
   background(0);
 
+  rotateX(TWO_PI / 7);
+  // rotateX(frameCount / 200);
+  translate(-width / 2, -height / 2);
   draw_squares();
 
   noLoop();
@@ -135,15 +138,21 @@ function draw_squares() {
   if (max_square < 0) {
     prepare_squares();
   }
-  noStroke();
+  // noStroke();
+  let max_height = 18 * square_size;
   for (let ix = 0; ix < n_squares; ix++) {
     for (let iy = 0; iy < n_squares; iy++) {
       if (squares[ix][iy] > 0) {
         p = squares[ix][iy] / max_square;
-        fill((p * 255 * 2) / 3 + (255 * 1) / 3, 0, 0);
-        square(min_x + ix * square_size, min_y + iy * square_size, square_size);
+        fill(p * 255, 128, 64);
+        let z = p * max_height;
+        translate(0, 0, z / 2);
+        box(square_size, square_size, z);
+        translate(0, 0, -z / 2);
       }
+      translate(0, square_size);
     }
+    translate(square_size, -square_size * n_squares);
   }
 }
 
