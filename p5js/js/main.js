@@ -1,5 +1,8 @@
 var canvas;
 let debug = true;
+let margin = 0.05;
+let n = 14000;
+let points = [];
 
 // NORTE (ponto mais setentrional):
 // Nascente do rio Ailã (extremo norte do estado de Roraima, fronteira com a Guiana)
@@ -32,10 +35,32 @@ function setup() {
   canvas.class("canv");
 
   let g = new GeoPoint();
-  console.log(g.deg2dec(min_y));
+
+  min_y = g.deg2dec(min_y);
+  max_y = g.deg2dec(max_y);
+
+  min_x = g.deg2dec(min_x);
+  max_x = g.deg2dec(max_x);
+
+  let x0 = width * (1 - margin);
+  let x1 = width * margin;
+  let y0 = height * (1 - margin);
+  let y1 = height * margin;
+
+  for (let i = 0; i < n; i++) {
+    let x = map(random(), 0, 1, x0, x1);
+    let y = map(random(), 0, 1, y0, y1);
+    points.push(createVector(x, y));
+  }
 }
 
-function draw() {}
+function draw() {
+  background(0);
+  stroke(255);
+  points.forEach(e => {
+    point(e.x, e.y);
+  });
+}
 
 function saveThisMap() {
   saveCanvas(canvas, "img", "png");
