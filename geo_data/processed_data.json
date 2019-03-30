@@ -1,0 +1,5870 @@
+{
+    "data": [
+        {
+            "cidade": "Cruzeiro do Sul",
+            "lat": -7.627995199999999,
+            "long": -72.6762232,
+            "qtd": "20",
+            "uf": "AC"
+        },
+        {
+            "cidade": "Rio Branco",
+            "lat": -9.975337399999999,
+            "long": -68.42932139999999,
+            "qtd": "19",
+            "uf": "AC"
+        },
+        {
+            "cidade": "Arapiraca",
+            "lat": -9.755571999999999,
+            "long": -36.6639592,
+            "qtd": "26",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Batalha",
+            "lat": -9.674657,
+            "long": -37.1329275,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Macei\u00f3",
+            "lat": -9.6498487,
+            "long": -35.7089492,
+            "qtd": "79",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Minador do Negr\u00e3o",
+            "lat": -9.3083596,
+            "long": -36.8665768,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Palmeira dos \u00cdndios",
+            "lat": -9.406106,
+            "long": -36.6331433,
+            "qtd": "11",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Penedo",
+            "lat": -10.2889171,
+            "long": -36.58396490000001,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Piranhas",
+            "lat": -9.5436059,
+            "long": -37.745028,
+            "qtd": "2",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Santana do Ipanema",
+            "lat": -9.3704171,
+            "long": -37.2483522,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "S\u00e3o Miguel dos Campos",
+            "lat": -9.7625469,
+            "long": -36.1328132,
+            "qtd": "29",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Teot\u00f4nio Vilela",
+            "lat": -9.9084691,
+            "long": -36.359772,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Uni\u00e3o dos Palmares",
+            "lat": -9.1610344,
+            "long": -36.0166255,
+            "qtd": "1",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Vi\u00e7osa",
+            "lat": -9.3740018,
+            "long": -36.24194689999999,
+            "qtd": "5",
+            "uf": "AL"
+        },
+        {
+            "cidade": "Coari",
+            "lat": -4.0912758,
+            "long": -63.1483401,
+            "qtd": "3",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Eirunep\u00e9",
+            "lat": -6.6618796,
+            "long": -69.8674865,
+            "qtd": "4",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Manacapuru",
+            "lat": -3.2897455,
+            "long": -60.6320881,
+            "qtd": "3",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Manaus",
+            "lat": -3.1190275,
+            "long": -60.0217314,
+            "qtd": "86",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Parintins",
+            "lat": -2.633616,
+            "long": -56.7319696,
+            "qtd": "5",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Presidente Figueiredo",
+            "lat": -2.0533403,
+            "long": -60.0238349,
+            "qtd": "23",
+            "uf": "AM"
+        },
+        {
+            "cidade": "Laranjal do Jari",
+            "lat": -0.8397631999999999,
+            "long": -52.5189943,
+            "qtd": "1",
+            "uf": "AP"
+        },
+        {
+            "cidade": "Macap\u00e1",
+            "lat": 0.0355735,
+            "long": -51.070535,
+            "qtd": "11",
+            "uf": "AP"
+        },
+        {
+            "cidade": "Santana",
+            "lat": -0.0371861,
+            "long": -51.1727439,
+            "qtd": "2",
+            "uf": "AP"
+        },
+        {
+            "cidade": "Barreiras",
+            "lat": -12.1477483,
+            "long": -44.9953475,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Cachoeira",
+            "lat": -12.6009889,
+            "long": -38.9659394,
+            "qtd": "7",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Caetit\u00e9",
+            "lat": -14.0648657,
+            "long": -42.48588669999999,
+            "qtd": "41",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Camacan",
+            "lat": -15.4201038,
+            "long": -39.49640369999999,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Cama\u00e7ari",
+            "lat": -12.6971776,
+            "long": -38.3331983,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Caturama",
+            "lat": -13.3299041,
+            "long": -42.2909374,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Entre Rios",
+            "lat": -11.9441553,
+            "long": -38.08417379999999,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Eun\u00e1polis",
+            "lat": -16.3717837,
+            "long": -39.5818005,
+            "qtd": "13",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Feira de Santana",
+            "lat": -12.2597272,
+            "long": -38.9646608,
+            "qtd": "19",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Firmino Alves",
+            "lat": -14.9871201,
+            "long": -39.9246186,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Guanambi",
+            "lat": -14.2194046,
+            "long": -42.7796735,
+            "qtd": "3",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Ilh\u00e9us",
+            "lat": -14.7935051,
+            "long": -39.0463797,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Ipia\u00fa",
+            "lat": -14.1349424,
+            "long": -39.7385835,
+            "qtd": "4",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Irec\u00ea",
+            "lat": -11.3034012,
+            "long": -41.8557693,
+            "qtd": "12",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Itatim",
+            "lat": -12.7064081,
+            "long": -39.6973656,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Jacobina",
+            "lat": -11.1816506,
+            "long": -40.5120603,
+            "qtd": "12",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Jequi\u00e9",
+            "lat": -13.8590592,
+            "long": -40.0837763,
+            "qtd": "34",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Juazeiro",
+            "lat": -9.431282999999999,
+            "long": -40.5078776,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Lauro de Freitas",
+            "lat": -12.8820575,
+            "long": -38.3148204,
+            "qtd": "31",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Lic\u00ednio de Almeida",
+            "lat": -14.617936,
+            "long": -42.4724578,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Morro do Chap\u00e9u",
+            "lat": -11.5493505,
+            "long": -41.1560657,
+            "qtd": "3",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Paripiranga",
+            "lat": -10.6840029,
+            "long": -37.8629798,
+            "qtd": "11",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Paulo Afonso",
+            "lat": -9.587491600000002,
+            "long": -38.4008357,
+            "qtd": "8",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Porto Seguro",
+            "lat": -16.4443537,
+            "long": -39.0653656,
+            "qtd": "34",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Prado",
+            "lat": -17.3340212,
+            "long": -39.2250648,
+            "qtd": "15",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Salvador",
+            "lat": -12.977749,
+            "long": -38.5016301,
+            "qtd": "269",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Santa Maria da Vit\u00f3ria",
+            "lat": -13.3855106,
+            "long": -44.20199789999999,
+            "qtd": "3",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Santan\u00f3polis",
+            "lat": -12.0256285,
+            "long": -38.8655937,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Santo Amaro",
+            "lat": -12.5464273,
+            "long": -38.7109081,
+            "qtd": "6",
+            "uf": "BA"
+        },
+        {
+            "cidade": "S\u00e3o Desid\u00e9rio",
+            "lat": -12.7570071,
+            "long": -45.94438299999999,
+            "qtd": "3",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Seabra",
+            "lat": -12.4175133,
+            "long": -41.7692172,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Sebasti\u00e3o Laranjeiras",
+            "lat": -14.5785405,
+            "long": -43.1359542,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Senhor do Bonfim",
+            "lat": -10.4614397,
+            "long": -40.1867729,
+            "qtd": "8",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Serrol\u00e2ndia",
+            "lat": -11.4176158,
+            "long": -40.2989318,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Sim\u00f5es Filho",
+            "lat": -12.7863762,
+            "long": -38.4021884,
+            "qtd": "4",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Teofil\u00e2ndia",
+            "lat": -11.4889702,
+            "long": -38.9975594,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Valen\u00e7a",
+            "lat": -13.3700599,
+            "long": -39.0720243,
+            "qtd": "6",
+            "uf": "BA"
+        },
+        {
+            "cidade": "V\u00e1rzea da Ro\u00e7a",
+            "lat": -11.6081174,
+            "long": -40.1362757,
+            "qtd": "1",
+            "uf": "BA"
+        },
+        {
+            "cidade": "V\u00e1rzea do Po\u00e7o",
+            "lat": -11.5275205,
+            "long": -40.3150454,
+            "qtd": "2",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Vit\u00f3ria da Conquista",
+            "lat": -14.8619237,
+            "long": -40.8445346,
+            "qtd": "7",
+            "uf": "BA"
+        },
+        {
+            "cidade": "Acara\u00fa",
+            "lat": -2.897903,
+            "long": -40.1192437,
+            "qtd": "7",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Acopiara",
+            "lat": -6.0949221,
+            "long": -39.45993,
+            "qtd": "4",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Alc\u00e2ntaras",
+            "lat": -3.5868559,
+            "long": -40.5455415,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Altaneira",
+            "lat": -6.988451,
+            "long": -39.7484115,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Amontada",
+            "lat": -3.3618719,
+            "long": -39.8308199,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Apuiar\u00e9s",
+            "lat": -3.9484516,
+            "long": -39.3621196,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Aquiraz",
+            "lat": -3.9063032,
+            "long": -38.3874882,
+            "qtd": "28",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Aracati",
+            "lat": -4.5612094,
+            "long": -37.7688612,
+            "qtd": "3",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Aracoiaba",
+            "lat": -4.3719263,
+            "long": -38.8103685,
+            "qtd": "5",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Assar\u00e9",
+            "lat": -6.875198500000001,
+            "long": -39.8715949,
+            "qtd": "4",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Aurora",
+            "lat": -6.9431075,
+            "long": -38.9675047,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Banabui\u00fa",
+            "lat": -5.2253981,
+            "long": -38.9459326,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Barbalha",
+            "lat": -7.2986432,
+            "long": -39.3024503,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Barreira",
+            "lat": -4.3183242,
+            "long": -38.6110264,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Barroquinha",
+            "lat": -3.0199939,
+            "long": -41.1343733,
+            "qtd": "11",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Bela Cruz",
+            "lat": -3.0542867,
+            "long": -40.1746278,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Camocim",
+            "lat": -2.9008418,
+            "long": -40.84209999999999,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Campos Sales",
+            "lat": -7.0743223,
+            "long": -40.37156,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Canind\u00e9",
+            "lat": -4.3580865,
+            "long": -39.3137855,
+            "qtd": "14",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Caridade",
+            "lat": -4.0962404,
+            "long": -39.0566372,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Carir\u00e9",
+            "lat": -3.9491202,
+            "long": -40.4764866,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Cascavel",
+            "lat": -4.132914299999999,
+            "long": -38.2471064,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Caucaia",
+            "lat": -3.7203049,
+            "long": -38.6663911,
+            "qtd": "25",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Cedro",
+            "lat": -6.6041123,
+            "long": -39.0586552,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Crate\u00fas",
+            "lat": -5.178204,
+            "long": -40.6695522,
+            "qtd": "8",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Crato",
+            "lat": -7.229957199999999,
+            "long": -39.4122984,
+            "qtd": "17",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Croat\u00e1",
+            "lat": -4.3626835,
+            "long": -40.9990597,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Cruz",
+            "lat": -2.9219693,
+            "long": -40.17581759999999,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Eus\u00e9bio",
+            "lat": -3.884188699999999,
+            "long": -38.46396319999999,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Farias Brito",
+            "lat": -6.9261241,
+            "long": -39.5732891,
+            "qtd": "10",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Forquilha",
+            "lat": -3.8053293,
+            "long": -40.2675717,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Fortaleza",
+            "lat": -3.7327144,
+            "long": -38.5269981,
+            "qtd": "1203",
+            "uf": "CE"
+        },
+        {
+            "cidade": "General Sampaio",
+            "lat": -4.050681300000001,
+            "long": -39.4489107,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Groa\u00edras",
+            "lat": -3.9151938,
+            "long": -40.3851258,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Guaraciaba do Norte",
+            "lat": -4.1632847,
+            "long": -40.7504006,
+            "qtd": "5",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Horizonte",
+            "lat": -4.0998132,
+            "long": -38.4948421,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Ic\u00f3",
+            "lat": -6.4026236,
+            "long": -38.8591633,
+            "qtd": "58",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Iguatu",
+            "lat": -6.3587958,
+            "long": -39.29805899999999,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Ipaumirim",
+            "lat": -6.789476899999999,
+            "long": -38.7185133,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Ipueiras",
+            "lat": -4.54253,
+            "long": -40.717276,
+            "qtd": "4",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Irau\u00e7uba",
+            "lat": -3.7475743,
+            "long": -39.7827051,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Itai\u00e7aba",
+            "lat": -4.6775136,
+            "long": -37.8224458,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Itaitinga",
+            "lat": -3.9715688,
+            "long": -38.5276456,
+            "qtd": "3",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Itapipoca",
+            "lat": -3.499706,
+            "long": -39.5839241,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Itapi\u00fana",
+            "lat": -4.5633851,
+            "long": -38.9212128,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Jaguaribe",
+            "lat": -5.892758199999999,
+            "long": -38.6219755,
+            "qtd": "16",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Jaguaruana",
+            "lat": -4.8378331,
+            "long": -37.7828916,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Jijoca de Jericoacoara",
+            "lat": -2.8977741,
+            "long": -40.451328,
+            "qtd": "8",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Juazeiro do Norte",
+            "lat": -7.2290551,
+            "long": -39.3123192,
+            "qtd": "43",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Juc\u00e1s",
+            "lat": -6.5162414,
+            "long": -39.5187369,
+            "qtd": "15",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Lavras da Mangabeira",
+            "lat": -6.7557988,
+            "long": -38.9661509,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Limoeiro do Norte",
+            "lat": -5.1571715,
+            "long": -38.0208151,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Maracana\u00fa",
+            "lat": -3.8674127,
+            "long": -38.6261113,
+            "qtd": "51",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Maranguape",
+            "lat": -3.8829604,
+            "long": -38.6775829,
+            "qtd": "42",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Martin\u00f3pole",
+            "lat": -3.2239808,
+            "long": -40.6957932,
+            "qtd": "6",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Massap\u00ea",
+            "lat": -3.5240219,
+            "long": -40.3426306,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Novo Oriente",
+            "lat": -5.536340399999999,
+            "long": -40.7731445,
+            "qtd": "5",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Ocara",
+            "lat": -4.5215418,
+            "long": -38.5270305,
+            "qtd": "7",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Pacatuba",
+            "lat": -3.9295337,
+            "long": -38.60573249999999,
+            "qtd": "16",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Paraipaba",
+            "lat": -3.4376591,
+            "long": -39.1481949,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Parambu",
+            "lat": -6.212049899999999,
+            "long": -40.6924331,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Pedra Branca",
+            "lat": -5.4545752,
+            "long": -39.7177495,
+            "qtd": "10",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Pereiro",
+            "lat": -6.0553669,
+            "long": -38.5060147,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Potiretama",
+            "lat": -5.7233918,
+            "long": -38.1539515,
+            "qtd": "4",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Quiterian\u00f3polis",
+            "lat": -5.8455954,
+            "long": -40.7037282,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Quixeramobim",
+            "lat": -5.2915408,
+            "long": -39.4035876,
+            "qtd": "23",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Reden\u00e7\u00e3o",
+            "lat": -4.2238817,
+            "long": -38.7302215,
+            "qtd": "13",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Reriutaba",
+            "lat": -4.1329003,
+            "long": -40.5940565,
+            "qtd": "12",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Santa Quit\u00e9ria",
+            "lat": -4.3253745,
+            "long": -40.1527119,
+            "qtd": "4",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Santana do Acara\u00fa",
+            "lat": -3.4605096,
+            "long": -40.20784829999999,
+            "qtd": "8",
+            "uf": "CE"
+        },
+        {
+            "cidade": "S\u00e3o Gon\u00e7alo do Amarante",
+            "lat": -3.6072866,
+            "long": -38.96838839999999,
+            "qtd": "12",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Senador S\u00e1",
+            "lat": -3.3538275,
+            "long": -40.46652820000001,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Sobral",
+            "lat": -3.6895919,
+            "long": -40.3485423,
+            "qtd": "122",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Tabuleiro do Norte",
+            "lat": -5.244189899999999,
+            "long": -38.1285929,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Tau\u00e1",
+            "lat": -5.892287,
+            "long": -40.2271243,
+            "qtd": "3",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Teju\u00e7uoca",
+            "lat": -3.9884843,
+            "long": -39.5789373,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Tiangu\u00e1",
+            "lat": -3.7300232,
+            "long": -40.9926511,
+            "qtd": "1",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Ubajara",
+            "lat": -3.8530587,
+            "long": -40.9183489,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "Varjota",
+            "lat": -4.1958372,
+            "long": -40.4735933,
+            "qtd": "9",
+            "uf": "CE"
+        },
+        {
+            "cidade": "V\u00e1rzea Alegre",
+            "lat": -6.7943447,
+            "long": -39.2982254,
+            "qtd": "2",
+            "uf": "CE"
+        },
+        {
+            "cidade": "\u00c1guas Claras",
+            "lat": -15.8372013,
+            "long": -48.0258046,
+            "qtd": "6",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Bras\u00edlia",
+            "lat": -15.826691,
+            "long": -47.92182039999999,
+            "qtd": "89",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Ceil\u00e2ndia",
+            "lat": -15.821435,
+            "long": -48.114201,
+            "qtd": "5",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Recanto das Emas",
+            "lat": -15.9090602,
+            "long": -48.0650169,
+            "qtd": "3",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Riacho Fundo II",
+            "lat": -15.8992271,
+            "long": -48.0493873,
+            "qtd": "2",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Samambaia",
+            "lat": -15.8705748,
+            "long": -48.0902431,
+            "qtd": "1",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Sobradinho",
+            "lat": -15.6580179,
+            "long": -47.7925346,
+            "qtd": "15",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Sudoeste e Octogonal",
+            "lat": -15.7950174,
+            "long": -47.9267674,
+            "qtd": "2",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Taguatinga",
+            "lat": -15.8107481,
+            "long": -48.065751,
+            "qtd": "37",
+            "uf": "DF"
+        },
+        {
+            "cidade": "Alfredo Chaves",
+            "lat": -20.6362063,
+            "long": -40.7500672,
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Aracruz",
+            "lat": -19.8188083,
+            "long": -40.2735622,
+            "qtd": "23",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Cachoeiro de Itapemirim",
+            "lat": -20.8467047,
+            "long": -41.1202199,
+            "qtd": "1",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Cariacica",
+            "lat": -20.2844662,
+            "long": -40.4312584,
+            "qtd": "16",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Colatina",
+            "lat": -19.5262632,
+            "long": -40.6351179,
+            "qtd": "4",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Ecoporanga",
+            "lat": -18.3709127,
+            "long": -40.8328525,
+            "qtd": "1",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Guarapari",
+            "lat": -20.6741197,
+            "long": -40.4997382,
+            "qtd": "15",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Ibatiba",
+            "lat": -20.2351644,
+            "long": -41.5090668,
+            "qtd": "20",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Itarana",
+            "lat": -19.8745898,
+            "long": -40.875947,
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Linhares",
+            "lat": -19.4021415,
+            "long": -40.0670118,
+            "qtd": "23",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Manten\u00f3polis",
+            "lat": -18.8619015,
+            "long": -41.1215853,
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Marata\u00edzes",
+            "lat": -21.045485,
+            "long": -40.8317367,
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Marechal Floriano",
+            "lat": -20.4112962,
+            "long": -40.6760738,
+            "qtd": "11",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Mimoso do Sul",
+            "lat": -21.0625417,
+            "long": -41.36334739999999,
+            "qtd": "1",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Montanha",
+            "lat": -18.1255725,
+            "long": -40.3662673,
+            "qtd": "6",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Mucurici",
+            "lat": -18.0943095,
+            "long": -40.5177257,
+            "qtd": "5",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Nova Ven\u00e9cia",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Presidente Kennedy",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Santa Maria de Jetib\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Santa Teresa",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "ES"
+        },
+        {
+            "cidade": "S\u00e3o Mateus",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Serra",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Viana",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Vila Pav\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Vila Velha",
+            "lat": "",
+            "long": "",
+            "qtd": "24",
+            "uf": "ES"
+        },
+        {
+            "cidade": "Vit\u00f3ria",
+            "lat": "",
+            "long": "",
+            "qtd": "28",
+            "uf": "ES"
+        },
+        {
+            "cidade": "\u00c1guas Lindas",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "GO"
+        },
+        {
+            "cidade": "An\u00e1polis",
+            "lat": "",
+            "long": "",
+            "qtd": "43",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Aparecida de Goi\u00e2nia",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Caldas Novas",
+            "lat": "",
+            "long": "",
+            "qtd": "38",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Catura\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Formosa",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Goian\u00e9sia",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Goi\u00e2nia",
+            "lat": "",
+            "long": "",
+            "qtd": "111",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Guara\u00edta",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Jata\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Morrinhos",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Piracanjuba",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "GO"
+        },
+        {
+            "cidade": "S\u00e3o Lu\u00eds de Montes Belos",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "GO"
+        },
+        {
+            "cidade": "Urua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "GO"
+        },
+        {
+            "cidade": "A\u00e7ail\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Bacabal",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Barra do Corda",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Boa Vista do Gurupi",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Brejo",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Cod\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Coelho Neto",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Coroat\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Dom Pedro",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Graja\u00fa",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Imperatriz",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Loreto",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Mat\u00f5es",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Morros",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Pedreiras",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Pindar\u00e9 Mirim",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Porto Franco",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Presidente Dutra",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Ros\u00e1rio",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Santa In\u00eas",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "MA"
+        },
+        {
+            "cidade": "S\u00e3o Bernardo",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MA"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o dos Patos",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MA"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 de Ribamar",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "MA"
+        },
+        {
+            "cidade": "S\u00e3o Lu\u00eds",
+            "lat": "",
+            "long": "",
+            "qtd": "33",
+            "uf": "MA"
+        },
+        {
+            "cidade": "S\u00e3o Roberto",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Timon",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MA"
+        },
+        {
+            "cidade": "Alfenas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Alpin\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Alterosa",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Alvin\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Andradas",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Araguari",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Areado",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Arinos",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bambu\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bandeira do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bar\u00e3o de Cocais",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Barbacena",
+            "lat": "",
+            "long": "",
+            "qtd": "24",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Belo Horizonte",
+            "lat": "",
+            "long": "",
+            "qtd": "75",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Betim",
+            "lat": "",
+            "long": "",
+            "qtd": "22",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bias Fortes",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bicas",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Bom Jesus do Amparo",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Cabo Verde",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Cachoeira de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Caet\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Cambuquira",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Campestre",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Carangola",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Carmo de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Caxambu",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Cipot\u00e2nea",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Coimbra",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Concei\u00e7\u00e3o da Barra de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Conselheiro Lafaiete",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Contagem",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Coronel Fabriciano",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Coronel Xavier Chaves",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Curvelo",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Diamantina",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Divin\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Entre Rios de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Extrema",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Florestal",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Formiga",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Fortaleza de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Frutal",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Governador Valadares",
+            "lat": "",
+            "long": "",
+            "qtd": "43",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Gr\u00e3o Mogol",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Guanh\u00e3es",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Guap\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Guaran\u00e9sia",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Guaxup\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ijaci",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ilic\u00ednea",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Inconfidentes",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ipatinga",
+            "lat": "",
+            "long": "",
+            "qtd": "70",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Itabirito",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Itajub\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "35",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Itapagipe",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ita\u00fana",
+            "lat": "",
+            "long": "",
+            "qtd": "19",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Janu\u00e1ria",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Jo\u00e3o Monlevade",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Juiz de Fora",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Lima Duarte",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Manhua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Mantena",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Maria da F\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Mariana",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Matip\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Minas Novas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Monte Carmelo",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Monte Si\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Muzambinho",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Nova Lima",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Nova Serrana",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Novo Cruzeiro",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Oliveira",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ouro Branco",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ouro Preto",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Padre Carvalho",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Par\u00e1 de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Passa Quatro",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Passa Tempo",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Passos",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Patos de Minas",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Piracema",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Pirapora",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Piumhi",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Po\u00e7os de Caldas",
+            "lat": "",
+            "long": "",
+            "qtd": "28",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Porteirinha",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Pouso Alegre",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Prudente de Morais",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Resende Costa",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ribeir\u00e3o das Neves",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Rio Parana\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Rit\u00e1polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Sabar\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santa Luzia",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santa Maria de Itabira",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santa Rita de Caldas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santa Rita do Sapuca\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santa Vit\u00f3ria",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santo Ant\u00f4nio do Grama",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santo Ant\u00f4nio do Monte",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Santo Ant\u00f4nio do Retiro",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Gon\u00e7alo do Rio Abaixo",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o del Rei",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o Evangelista",
+            "lat": "",
+            "long": "",
+            "qtd": "19",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Louren\u00e7o",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Miguel do Anta",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "S\u00e3o Sebasti\u00e3o do Para\u00edso",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Taiobeiras",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Te\u00f3filo Otoni",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Tim\u00f3teo",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Tr\u00eas Cora\u00e7\u00f5es",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Tr\u00eas Pontas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Turvol\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Ub\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Uberaba",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Uberl\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "51",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Varginha",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Vespasiano",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Vi\u00e7osa",
+            "lat": "",
+            "long": "",
+            "qtd": "37",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Virg\u00ednia",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Visconde do Rio Branco",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Wenceslau Braz",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MG"
+        },
+        {
+            "cidade": "Aquidauana",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Bela Vista",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Campo Grande",
+            "lat": "",
+            "long": "",
+            "qtd": "26",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Corumb\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Costa Rica",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Dourados",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Guia Lopes da Laguna",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Itaquira\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Ivinhema",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Jaraguari",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Nova Andradina",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Parana\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Tr\u00eas Lagoas",
+            "lat": "",
+            "long": "",
+            "qtd": "18",
+            "uf": "MS"
+        },
+        {
+            "cidade": "Alta Floresta",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Alto Gar\u00e7as",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Barra do Gar\u00e7as",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MT"
+        },
+        {
+            "cidade": "C\u00e1ceres",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Col\u00edder",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Confresa",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Cuiab\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "29",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Itiquira",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Lucas do Rio Verde",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Nova Mutum",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Paranatinga",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Pontes e Lacerda",
+            "lat": "",
+            "long": "",
+            "qtd": "51",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Poxor\u00e9o",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Primavera do Leste",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Rondon\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Sinop",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Sorriso",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Uni\u00e3o do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "MT"
+        },
+        {
+            "cidade": "Ananindeua",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Bel\u00e9m",
+            "lat": "",
+            "long": "",
+            "qtd": "133",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Camet\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Cana\u00e3 dos Caraj\u00e1s",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Capit\u00e3o Po\u00e7o",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Itaituba",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Juruti",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Oriximin\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Parauapebas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Santa Luzia do Par\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Santar\u00e9m",
+            "lat": "",
+            "long": "",
+            "qtd": "32",
+            "uf": "PA"
+        },
+        {
+            "cidade": "S\u00e3o Sebasti\u00e3o da Boa Vista",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Tail\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Tom\u00e9 A\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Tucuru\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "PA"
+        },
+        {
+            "cidade": "Alhandra",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Aroeiras",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Bananeiras",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Cabedelo",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Cachoeira dos \u00cdndios",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Cajazeiras",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Campina Grande",
+            "lat": "",
+            "long": "",
+            "qtd": "60",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Catol\u00e9 do Rocha",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Cubati",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Esperan\u00e7a",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Guarabira",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Jo\u00e3o Pessoa",
+            "lat": "",
+            "long": "",
+            "qtd": "101",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Juazeirinho",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Nazarezinho",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Parari",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Patos",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Pedra Lavrada",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Picu\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Po\u00e7o de Jos\u00e9 de Moura",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Pombal",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Santa Luzia",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "S\u00e3o Bento",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 de Piranhas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 de Princesa",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 do Bonfim",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Sousa",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Sum\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Teixeira",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Ten\u00f3rio",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Triunfo",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Uira\u00fana",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Vieir\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PB"
+        },
+        {
+            "cidade": "Afogados da Ingazeira",
+            "lat": "",
+            "long": "",
+            "qtd": "19",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Afr\u00e2nio",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Altinho",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Arcoverde",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Barreiros",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Belo Jardim",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Brejinho",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Cabo de Santo Agostinho",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Cabrob\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Camaragibe",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Camutanga",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Carpina",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Caruaru",
+            "lat": "",
+            "long": "",
+            "qtd": "104",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Dormentes",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Garanhuns",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Gl\u00f3ria do Goit\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Gravat\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Ipojuca",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Itapissuma",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Jaboat\u00e3o dos Guararapes",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Jata\u00faba",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Limoeiro",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Moreno",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Olinda",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Passira",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Paudalho",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Pesqueira",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Petrolina",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Recife",
+            "lat": "",
+            "long": "",
+            "qtd": "293",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Salgueiro",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Santa Cruz do Capibaribe",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "S\u00e3o Bento do Una",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 do Belmonte",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "PE"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 do Egito",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Surubim",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Tabira",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Timba\u00faba",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Tracunha\u00e9m",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PE"
+        },
+        {
+            "cidade": "Alto Long\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Angical do Piau\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Bom Jesus",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Castelo do Piau\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Cocal",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Oeiras",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Parna\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Paulistana",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Pedro II",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Picos",
+            "lat": "",
+            "long": "",
+            "qtd": "27",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Piripiri",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PI"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o da Fronteira",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PI"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o do Piau\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Teresina",
+            "lat": "",
+            "long": "",
+            "qtd": "117",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Uru\u00e7u\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PI"
+        },
+        {
+            "cidade": "Apucarana",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Arapongas",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Arauc\u00e1ria",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Braganey",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Campina Grande do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Campo Largo",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Cascavel",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Castro",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "C\u00e9u Azul",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Cidade Ga\u00facha",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Colombo",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Corn\u00e9lio Proc\u00f3pio",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Coronel Vivida",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Curitiba",
+            "lat": "",
+            "long": "",
+            "qtd": "50",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Foz do Igua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Francisco Beltr\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Ibaiti",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Inaj\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Ipiranga",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Irati",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Jaguaria\u00edva",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Londrina",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Maring\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "16",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Paranava\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Pato Branco",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Ponta Grossa",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "PR"
+        },
+        {
+            "cidade": "S\u00e3o Mateus do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Umuarama",
+            "lat": "",
+            "long": "",
+            "qtd": "24",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Uni\u00e3o da Vit\u00f3ria",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "PR"
+        },
+        {
+            "cidade": "Wenceslau Braz",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "PR"
+        },
+        {
+            "cidade": "NULL",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Araruama",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Arma\u00e7\u00e3o dos B\u00fazios",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Bom Jesus do Itabapoana",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Campos dos Goytacazes",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Duque de Caxias",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Itagua\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Maca\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Maric\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "17",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Miracema",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Nil\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Niter\u00f3i",
+            "lat": "",
+            "long": "",
+            "qtd": "22",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Nova Igua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Paracambi",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Petr\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Pira\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Porto Real",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Resende",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Rio das Ostras",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Rio de Janeiro",
+            "lat": "",
+            "long": "",
+            "qtd": "99",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "S\u00e3o Gon\u00e7alo",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o de Meriti",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Sapucaia",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Vassouras",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "Volta Redonda",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RJ"
+        },
+        {
+            "cidade": "A\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Alto do Rodrigues",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Apodi",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Ba\u00eda Formosa",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Caic\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Canguaretama",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Cear\u00e1 Mirim",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Extremoz",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Governador Dix Sept Rosado",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Ipangua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "25",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Janu\u00e1rio Cicco",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Jo\u00e3o C\u00e2mara",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Lajes",
+            "lat": "",
+            "long": "",
+            "qtd": "17",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Maca\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Macau",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Major Sales",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Mossor\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "193",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Natal",
+            "lat": "",
+            "long": "",
+            "qtd": "135",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Nova Cruz",
+            "lat": "",
+            "long": "",
+            "qtd": "19",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Parnamirim",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Pau dos Ferros",
+            "lat": "",
+            "long": "",
+            "qtd": "66",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Pend\u00eancias",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Santa Cruz",
+            "lat": "",
+            "long": "",
+            "qtd": "24",
+            "uf": "RN"
+        },
+        {
+            "cidade": "S\u00e3o Bento do Trairi",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RN"
+        },
+        {
+            "cidade": "S\u00e3o Gon\u00e7alo do Amarante",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "RN"
+        },
+        {
+            "cidade": "S\u00e3o Paulo do Potengi",
+            "lat": "",
+            "long": "",
+            "qtd": "32",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Tenente Laurentino Cruz",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Touros",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "V\u00e1rzea",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RN"
+        },
+        {
+            "cidade": "Espig\u00e3o d Oeste",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Guajar\u00e1Mirim",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Porto Velho",
+            "lat": "",
+            "long": "",
+            "qtd": "52",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Presidente M\u00e9dici",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Rolim de Moura",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Vilhena",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RO"
+        },
+        {
+            "cidade": "Boa Vista",
+            "lat": "",
+            "long": "",
+            "qtd": "56",
+            "uf": "RR"
+        },
+        {
+            "cidade": "Caracara\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RR"
+        },
+        {
+            "cidade": "Rorain\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RR"
+        },
+        {
+            "cidade": "Arroio dos Ratos",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Barra do Quara\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Bento Gon\u00e7alves",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Cachoeira do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Caibat\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Campo Bom",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Candel\u00e1ria",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Canoas",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Caxias do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Chapada",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Coqueiros do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Eldorado do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Erechim",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Frederico Westphalen",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Get\u00falio Vargas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Gramado",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Gravata\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Guapor\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Iju\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Ivoti",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "J\u00falio de Castilhos",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Lajeado",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Marau",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Novo Hamburgo",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Os\u00f3rio",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Para\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Parob\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Passo Fundo",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Pelotas",
+            "lat": "",
+            "long": "",
+            "qtd": "17",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Porto Alegre",
+            "lat": "",
+            "long": "",
+            "qtd": "116",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Ronda Alta",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Santa Cruz do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Santa Maria",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Santo \u00c2ngelo",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RS"
+        },
+        {
+            "cidade": "S\u00e3o Leopoldo",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "S\u00e3o Sep\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "S\u00e3o Vicente do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Taquara",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Tupanciret\u00e3",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Vera Cruz",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Veran\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Viam\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "RS"
+        },
+        {
+            "cidade": "Anita Garibaldi",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Araquari",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Ascurra",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Blumenau",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Brusque",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Canelinha",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Canoinhas",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Capinzal",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Chapec\u00f3",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Crici\u00fama",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Florian\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "59",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Garuva",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Gaspar",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "I\u00e7ara",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Ilhota",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Indaial",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Itaja\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Itapema",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Jaragu\u00e1 do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Joa\u00e7aba",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Joinville",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Lages",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Lontras",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Nova Trento",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Palho\u00e7a",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Papanduva",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Pi\u00e7arras",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Quilombo",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Rio do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Rodeio",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SC"
+        },
+        {
+            "cidade": "S\u00e3o Bento do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SC"
+        },
+        {
+            "cidade": "S\u00e3o Carlos",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SC"
+        },
+        {
+            "cidade": "S\u00e3o Francisco do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SC"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o Batista",
+            "lat": "",
+            "long": "",
+            "qtd": "18",
+            "uf": "SC"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Tijucas",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Tubar\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Videira",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SC"
+        },
+        {
+            "cidade": "Aracaju",
+            "lat": "",
+            "long": "",
+            "qtd": "64",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Brejo Grande",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Itabaiana",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Lagarto",
+            "lat": "",
+            "long": "",
+            "qtd": "54",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Muribeca",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Nossa Senhora da Gl\u00f3ria",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Nossa Senhora do Socorro",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "SE"
+        },
+        {
+            "cidade": "Sim\u00e3o Dias",
+            "lat": "",
+            "long": "",
+            "qtd": "18",
+            "uf": "SE"
+        },
+        {
+            "cidade": "\u00c1guas de Santa B\u00e1rbara",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "\u00c1lvares Machado",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Americana",
+            "lat": "",
+            "long": "",
+            "qtd": "18",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Amparo",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Andradina",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Apia\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ara\u00e7atuba",
+            "lat": "",
+            "long": "",
+            "qtd": "27",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Araraquara",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Araras",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Aruj\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Assis",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Atibaia",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Avar\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Bariri",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Barra Bonita",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Barueri",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Bastos",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Bauru",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Bebedouro",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Birig\u00fci",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Boituva",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Botucatu",
+            "lat": "",
+            "long": "",
+            "qtd": "9",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Bragan\u00e7a Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Caieiras",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Campinas",
+            "lat": "",
+            "long": "",
+            "qtd": "146",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Campo Limpo Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Campos do Jord\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cap\u00e3o Bonito",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Capivari",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Caraguatatuba",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Carapicu\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Catanduva",
+            "lat": "",
+            "long": "",
+            "qtd": "43",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Colina",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cordeir\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Corumbata\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cosm\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cotia",
+            "lat": "",
+            "long": "",
+            "qtd": "36",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cravinhos",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cruzeiro",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Cubat\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "25",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Descalvado",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Diadema",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Dois C\u00f3rregos",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Dracena",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Embu",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Embu Gua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Esp\u00edrito Santo do Pinhal",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Fartura",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Fernando Prestes",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Fernand\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Franca",
+            "lat": "",
+            "long": "",
+            "qtd": "18",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Gar\u00e7a",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Gua\u00edra",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Guapia\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "16",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Guararapes",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Guaratinguet\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Guarulhos",
+            "lat": "",
+            "long": "",
+            "qtd": "22",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Holambra",
+            "lat": "",
+            "long": "",
+            "qtd": "20",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Hortol\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "16",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ibitinga",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ibi\u00fana",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Igarat\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Indaiatuba",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itapecerica da Serra",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itapetininga",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itapeva",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itapevi",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itapira",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itarar\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itatiba",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Itu",
+            "lat": "",
+            "long": "",
+            "qtd": "45",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jacare\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "38",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jaguari\u00fana",
+            "lat": "",
+            "long": "",
+            "qtd": "20",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jales",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jarinu",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ja\u00fa",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jos\u00e9 Bonif\u00e1cio",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Jundia\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "56",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Junqueir\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Len\u00e7\u00f3is Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Limeira",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Luc\u00e9lia",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Lucian\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mairinque",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mairipor\u00e3",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Manduri",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mar\u00edlia",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mat\u00e3o",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mau\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Miracatu",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mirassol",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mococa",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mogi das Cruzes",
+            "lat": "",
+            "long": "",
+            "qtd": "25",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mogi Gua\u00e7u",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Mogi Mirim",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Monte Alto",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Nazar\u00e9 Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Nova Granada",
+            "lat": "",
+            "long": "",
+            "qtd": "14",
+            "uf": "SP"
+        },
+        {
+            "cidade": "\u00d3leo",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Orl\u00e2ndia",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Osasco",
+            "lat": "",
+            "long": "",
+            "qtd": "25",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ourinhos",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Panorama",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Paranapanema",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Paul\u00ednia",
+            "lat": "",
+            "long": "",
+            "qtd": "10",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pedra Bela",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pen\u00e1polis",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Peru\u00edbe",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pilar do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pindamonhangaba",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pinhalzinho",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Piracaia",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Piracicaba",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Piraju",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Piraju\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pirassununga",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pomp\u00e9ia",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Pontal",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Porto Feliz",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Porto Ferreira",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Praia Grande",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Presidente Prudente",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Regin\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ribeir\u00e3o Branco",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ribeir\u00e3o Pires",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ribeir\u00e3o Preto",
+            "lat": "",
+            "long": "",
+            "qtd": "40",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Rio Claro",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Rubin\u00e9ia",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Salto",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santa B\u00e1rbara D Oeste",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santa Cruz do Rio Pardo",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santa F\u00e9 do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santa Maria da Serra",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santana da Ponte Pensa",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santana de Parna\u00edba",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santo Andr\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "29",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Santos",
+            "lat": "",
+            "long": "",
+            "qtd": "35",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Bernardo do Campo",
+            "lat": "",
+            "long": "",
+            "qtd": "29",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Caetano do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Carlos",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Jo\u00e3o da Boa Vista",
+            "lat": "",
+            "long": "",
+            "qtd": "19",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 do Rio Pardo",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 do Rio Preto",
+            "lat": "",
+            "long": "",
+            "qtd": "156",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Jos\u00e9 dos Campos",
+            "lat": "",
+            "long": "",
+            "qtd": "120",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Manuel",
+            "lat": "",
+            "long": "",
+            "qtd": "6",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Paulo",
+            "lat": "",
+            "long": "",
+            "qtd": "503",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Pedro",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Roque",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "S\u00e3o Vicente",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Sarutai\u00e1",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Sert\u00e3ozinho",
+            "lat": "",
+            "long": "",
+            "qtd": "15",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Socorro",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Sorocaba",
+            "lat": "",
+            "long": "",
+            "qtd": "69",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Sumar\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "13",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Suzano",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tabo\u00e3o da Serra",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tamba\u00fa",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tanabi",
+            "lat": "",
+            "long": "",
+            "qtd": "21",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Taquaritinga",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tatu\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Taubat\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "32",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tiet\u00ea",
+            "lat": "",
+            "long": "",
+            "qtd": "7",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Tup\u00e3",
+            "lat": "",
+            "long": "",
+            "qtd": "8",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Ur\u00e2nia",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Valinhos",
+            "lat": "",
+            "long": "",
+            "qtd": "23",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Vargem Grande do Sul",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Vargem Grande Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "V\u00e1rzea Paulista",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Vera Cruz",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Vinhedo",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Vista Alegre do Alto",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Votorantim",
+            "lat": "",
+            "long": "",
+            "qtd": "5",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Votuporanga",
+            "lat": "",
+            "long": "",
+            "qtd": "37",
+            "uf": "SP"
+        },
+        {
+            "cidade": "Aragua\u00edna",
+            "lat": "",
+            "long": "",
+            "qtd": "12",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Araguatins",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Arraias",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Aurora do Tocantins",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Brejinho de Nazar\u00e9",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Colinas do Tocantins",
+            "lat": "",
+            "long": "",
+            "qtd": "16",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Dian\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Guara\u00ed",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Gurupi",
+            "lat": "",
+            "long": "",
+            "qtd": "4",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Miracema do Tocantins",
+            "lat": "",
+            "long": "",
+            "qtd": "1",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Palmas",
+            "lat": "",
+            "long": "",
+            "qtd": "22",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Para\u00edso do Tocantins",
+            "lat": "",
+            "long": "",
+            "qtd": "3",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Porto Nacional",
+            "lat": "",
+            "long": "",
+            "qtd": "2",
+            "uf": "TO"
+        },
+        {
+            "cidade": "Tocantin\u00f3polis",
+            "lat": "",
+            "long": "",
+            "qtd": "11",
+            "uf": "TO"
+        }
+    ]
+}
