@@ -35,6 +35,15 @@ function preload() {
   data = loadJSON("data/processed_data.json");
 }
 
+function shuffleArray(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
+  }
+}
+
 function setup() {
   canvas = createCanvas(1080, 1080);
   canvas.class("canv");
@@ -52,7 +61,7 @@ function setup() {
   min_y = height * (1 - margin);
   max_y = height * margin;
 
-  let radius_adj = 0.2;
+  let radius_adj = 0.01;
 
   data.data.forEach(e => {
     let r = e.qtd * radius_adj;
@@ -66,14 +75,17 @@ function setup() {
       points.push(createVector(cx + _x, cy + _y));
     }
   });
+  shuffleArray(points);
 }
 
 function draw() {
   background(0);
-  stroke(255);
+  noFill();
+  stroke(255, 255, 255, 128);
   points.forEach(e => {
     point(e.x, e.y);
   });
+  noLoop();
 }
 
 function saveThisMap() {
