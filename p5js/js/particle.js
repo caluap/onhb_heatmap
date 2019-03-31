@@ -3,7 +3,7 @@ class Particle {
     this.pos = createVector(x, y);
     this.acc = createVector(0, 0);
     this.vel = createVector(0, 0);
-    this.red = random() * 255;
+    this.col = color(203, 7, 114);
   }
   update(where_to) {
     let distance = p5.Vector.dist(where_to, this.pos);
@@ -24,19 +24,15 @@ class Particle {
       console.log("cps " + where_to);
     }
 
-    let alpha = map(distance, 0, 1080, 0, 128, true);
-
-    this.col = color(this.red, 128, 128, alpha);
-
     if (distance > 0) {
       direction.div(distance);
     }
     this.acc.add(direction);
-    this.acc.limit(0.2);
+    this.acc.limit(0.1);
 
     this.vel.add(this.acc);
 
-    let jit_r = 2;
+    let jit_r = 0.3;
 
     let jitter = createVector(
       random() * jit_r - jit_r / 2,
@@ -44,7 +40,7 @@ class Particle {
     );
     this.vel.add(jitter);
 
-    this.vel.limit(1);
+    this.vel.limit(1.5);
     this.pos.add(this.vel);
 
     if (d) {
@@ -54,7 +50,9 @@ class Particle {
       console.log("acc " + this.acc);
     }
   }
-  draw() {
+  draw(fc) {
+    let alpha = (1 - fc / frame_limit) * 0.04;
+    this.col.setAlpha(alpha * 255 + 0.04 * 255);
     stroke(this.col);
     point(this.pos.x, this.pos.y);
   }

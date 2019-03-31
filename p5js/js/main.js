@@ -6,6 +6,8 @@ let points = [];
 let w = 1080;
 let h = 1080;
 
+let frame_limit = 400;
+
 let cps;
 
 let particles = [];
@@ -94,19 +96,20 @@ function draw() {
   // stroke(255);
   particles.forEach(e => {
     e.update(cps);
-    e.draw();
+    e.draw(frameCount);
   });
-  // if (frameCount == 100) {
-  //   noLoop();
-  // }
+  if (frameCount == frame_limit) {
+    console.log("finished");
+    noLoop();
+  }
 }
 
 function prepare_particles() {
   data.data.forEach(e => {
     let c = coord(e.long, e.lat);
-    let q = e.qtd / 50 + 1;
+    // let q = e.qtd / 50 + 1;
     // let q = Math.log(e.qtd) * 3;
-    // let q = e.qtd;
+    let q = e.qtd;
     for (let i = 0; i < q; i++) {
       particles.push(new Particle(c.x, c.y));
     }
