@@ -32,7 +32,7 @@ class Particle {
 
     this.vel.add(this.acc);
 
-    let jit_r = 3;
+    let jit_r = 3; //0.3
 
     let jitter = createVector(
       random() * jit_r - jit_r / 2,

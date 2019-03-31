@@ -1,3 +1,5 @@
 geo_data/.ipynb_checkpoints/
 geo_data/gmaps_key.txt
 *.gsheet
+*.ai
+ref.png

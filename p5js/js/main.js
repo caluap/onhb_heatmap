@@ -1,7 +1,9 @@
 var canvas;
 let debug = true;
-let margin = 0.05;
+let margin = 0.1055555556;
 let points = [];
+
+let bg;
 
 let w = 1080;
 let h = 1080;
@@ -62,6 +64,8 @@ function preload() {
   min_y = h * margin;
   max_y = h * (1 - margin);
 
+  bg = loadImage("assets/brazzz.png");
+
   data = loadJSON("data/processed_data.json");
 }
 
@@ -81,14 +85,13 @@ function shuffleArray(array) {
 }
 
 function setup() {
-  // canvas = createCanvas(w, h, WEBGL);
   canvas = createCanvas(w, h);
   canvas.class("canv");
 
   cps = coord(-47.073845, -22.9329252);
 
   prepare_particles();
-  background(0);
+  image(bg, 0, 0);
 }
 
 function draw() {
