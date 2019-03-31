@@ -51,8 +51,12 @@ class Particle {
     }
   }
   draw(fc) {
-    let alpha = (1 - fc / frame_limit) * 0.04;
-    this.col.setAlpha(alpha * 255 + 0.04 * 255);
+    if (fc < 5) {
+      this.col.setAlpha(0.8 * 255);
+    } else {
+      let alpha = 1 - fc / frame_limit;
+      this.col.setAlpha(0.03 * alpha * 255 + 0.03 * 255);
+    }
     stroke(this.col);
     point(this.pos.x, this.pos.y);
   }
