@@ -52,12 +52,16 @@ class Particle {
   }
   draw(fc) {
     if (fc == 1) {
-      this.col.setAlpha(0.8 * 255);
+      this.col.setAlpha(0.5 * 255);
     } else {
       let alpha = 1 - fc / frame_limit;
       this.col.setAlpha(0.03 * alpha * 255 + 0.03 * 255);
     }
-    stroke(this.col);
-    point(this.pos.x, this.pos.y);
+    let img_c = bg.get(this.pos.x, this.pos.y);
+    // brazil on the map has this color: #000201
+    if (img_c[0] == 0 && img_c[1] == 2 && img_c[2] == 1) {
+      stroke(this.col);
+      point(this.pos.x, this.pos.y);
+    }
   }
 }
