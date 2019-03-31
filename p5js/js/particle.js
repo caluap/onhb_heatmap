@@ -28,11 +28,11 @@ class Particle {
       direction.div(distance);
     }
     this.acc.add(direction);
-    this.acc.limit(0.1);
+    this.acc.limit(0.2);
 
     this.vel.add(this.acc);
 
-    let jit_r = 3; //0.3
+    let jit_r = 0.1;
 
     let jitter = createVector(
       random() * jit_r - jit_r / 2,
@@ -40,7 +40,7 @@ class Particle {
     );
     this.vel.add(jitter);
 
-    this.vel.limit(1.5);
+    this.vel.limit(1);
     this.pos.add(this.vel);
 
     if (d) {
