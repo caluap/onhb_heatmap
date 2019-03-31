@@ -6,7 +6,7 @@ let points = [];
 let w = 1080;
 let h = 1080;
 
-let frame_limit = 400;
+let frame_limit = 200;
 
 let cps;
 

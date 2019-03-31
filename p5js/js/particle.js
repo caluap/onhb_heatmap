@@ -32,7 +32,7 @@ class Particle {
 
     this.vel.add(this.acc);
 
-    let jit_r = 0.3;
+    let jit_r = 3;
 
     let jitter = createVector(
       random() * jit_r - jit_r / 2,
@@ -51,7 +51,7 @@ class Particle {
     }
   }
   draw(fc) {
-    if (fc < 5) {
+    if (fc == 1) {
       this.col.setAlpha(0.8 * 255);
     } else {
       let alpha = 1 - fc / frame_limit;
