@@ -1,9 +1,9 @@
 class Particle {
-  constructor(x, y) {
+  constructor(x, y, c = color(203, 7, 114)) {
     this.pos = createVector(x, y);
     this.acc = createVector(0, 0);
     this.vel = createVector(0, 0);
-    this.col = color(203, 7, 114);
+    this.col = c;
   }
   update(where_to) {
     let distance = p5.Vector.dist(where_to, this.pos);
@@ -28,11 +28,11 @@ class Particle {
       direction.div(distance);
     }
     this.acc.add(direction);
-    this.acc.limit(0.2);
+    this.acc.limit(acc_limit);
 
     this.vel.add(this.acc);
 
-    let jit_r = 0.1;
+    let jit_r = jit;
 
     let jitter = createVector(
       random() * jit_r - jit_r / 2,
@@ -40,7 +40,7 @@ class Particle {
     );
     this.vel.add(jitter);
 
-    this.vel.limit(1);
+    this.vel.limit(vel_limit);
     this.pos.add(this.vel);
 
     if (d) {
@@ -55,7 +55,7 @@ class Particle {
       this.col.setAlpha(0.5 * 255);
     } else {
       let alpha = 1 - fc / frame_limit;
-      this.col.setAlpha(0.03 * alpha * 255 + 0.03 * 255);
+      this.col.setAlpha(alpha_range * alpha * 255 + alpha_range * 255);
     }
     let img_c = bg.get(this.pos.x, this.pos.y);
     // brazil on the map has this color: #000201

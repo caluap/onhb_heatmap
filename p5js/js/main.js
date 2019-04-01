@@ -8,7 +8,12 @@ let bg;
 let w = 1080;
 let h = 1080;
 
-let frame_limit = 400;
+let frame_limit = 200;
+let phase_1 = true;
+let jit = 3,
+  acc_limit = 0.2,
+  vel_limit = 1,
+  alpha_range = 0.03;
 
 let cps;
 
@@ -95,26 +100,38 @@ function setup() {
 }
 
 function draw() {
-  // stroke(255, 255, 255, 255 / 3);
-  // stroke(255);
   particles.forEach(e => {
     e.update(cps);
     e.draw(frameCount);
   });
-  if (frameCount == frame_limit) {
-    console.log("finished");
+  if (frameCount == frame_limit && phase_1) {
+    console.log("finished phase 1");
+    phase_1 = false;
+    frame_limit = 1200;
+    jit = 0.01;
+    acc_limit = 0.4;
+    vel_limit = 1;
+    particles.length = 0;
+    prepare_particles(color(237, 3, 124));
+  }
+  if (frameCount == frame_limit && !phase_1) {
+    console.log("finished phase 2");
     noLoop();
   }
 }
 
-function prepare_particles() {
+function prepare_particles(col = null) {
   data.data.forEach(e => {
     let c = coord(e.long, e.lat);
     // let q = e.qtd / 50 + 1;
     // let q = Math.log(e.qtd) * 3;
     let q = e.qtd;
     for (let i = 0; i < q; i++) {
-      particles.push(new Particle(c.x, c.y));
+      if (col) {
+        particles.push(new Particle(c.x, c.y, col));
+      } else {
+        particles.push(new Particle(c.x, c.y));
+      }
     }
   });
 }
