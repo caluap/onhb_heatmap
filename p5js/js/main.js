@@ -3,7 +3,10 @@ let debug = true;
 let margin = 0.1055555556;
 let points = [];
 
+let animation = true;
+
 let bg;
+let overlay;
 
 let w = 1080;
 let h = 1080;
@@ -70,6 +73,7 @@ function preload() {
   max_y = h * (1 - margin);
 
   bg = loadImage("assets/brazzz.png");
+  overlay = loadImage("assets/overlay.png");
 
   data = loadJSON("data/processed_data.json");
 }
@@ -117,6 +121,9 @@ function draw() {
   if (frameCount == frame_limit && !phase_1) {
     console.log("finished phase 2");
     noLoop();
+  }
+  if (animation) {
+    image(overlay, 0, 0);
   }
 }
 
