@@ -8,6 +8,13 @@ let animation = true;
 let bg;
 let overlay;
 
+let capturer = new CCapture({
+  framerate: 60,
+  format: "jpg",
+  quality: 80,
+  verbose: true
+});
+
 let w = 1080;
 let h = 1080;
 
@@ -76,6 +83,8 @@ function preload() {
   overlay = loadImage("assets/overlay.png");
 
   data = loadJSON("data/processed_data.json");
+
+  capturer.start();
 }
 
 function coord(long, lat) {
@@ -121,9 +130,12 @@ function draw() {
   if (frameCount == frame_limit && !phase_1) {
     console.log("finished phase 2");
     noLoop();
+    capturer.stop();
+    capturer.save();
   }
   if (animation) {
     image(overlay, 0, 0);
+    capturer.capture(document.getElementById("defaultCanvas0"));
   }
 }
 
